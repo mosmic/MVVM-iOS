@@ -1,0 +1,6 @@
+framework module AlamofireReactiveExtensions {
+  umbrella header "AlamofireReactiveExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
